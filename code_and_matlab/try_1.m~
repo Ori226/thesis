@@ -1,0 +1,13 @@
+% load the data:
+if ~exist('bbci','var')
+    load('/home/ain/Desktop/RSVP_Color83msVPfat.mat');
+end
+
+
+% original classifier 
+
+% extract the 5 time gaps
+
+
+
+disp('dsds');
